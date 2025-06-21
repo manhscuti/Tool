@@ -1,1 +1,1 @@
-#Tool\n#Copyright by MinhAnhs\n#Repo đupcjw
+#Tool
